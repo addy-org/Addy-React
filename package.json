@@ -25,6 +25,8 @@
     "webpack": "^3.10.0"
   },
   "devDependencies": {
-    "eslint": "^4.16.0"
+    "eslint": "^4.16.0",
+    "eslint-config-universe": "^1.0.6",
+    "prettier": "^1.10.2"
   }
 }
