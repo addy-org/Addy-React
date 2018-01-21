@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Addy-Smart-Addresses/Addy-React/issues"
   },
-  "homepage": "https://github.com/Addy-Smart-Addresses/Addy-React#readme"
+  "homepage": "https://github.com/Addy-Smart-Addresses/Addy-React#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.10.0"
+  }
 }
