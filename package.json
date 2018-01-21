@@ -28,5 +28,8 @@
     "eslint": "^4.16.0",
     "eslint-config-universe": "^1.0.6",
     "prettier": "^1.10.2"
+  },
+  "eslintConfig": {
+    "extends": "universe/web"
   }
 }
